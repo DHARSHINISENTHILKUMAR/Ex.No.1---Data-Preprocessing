@@ -1,9 +1,9 @@
 # Ex.No.1---Data-Preprocessing
-##AIM:
+## AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -23,14 +23,15 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
-Importing the libraries
-Importing the dataset
-Taking care of missing data
-Encoding categorical data
-Normalizing the data
-Splitting the data into test and train
-
+## ALGORITHM:
+```
+1.Importing the libraries
+2.Importing the dataset
+3.Taking care of missing data
+4.Encoding categorical data
+5.Normalizing the data
+6.Splitting the data into test and train
+```
 ## PROGRAM:
 ```
 Register Number: 212221220009
