@@ -31,7 +31,8 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
+## PROGRAM:
+```
 Register Number: 212221220009
 Name: Dharshini S
 import pandas as pd
@@ -58,9 +59,15 @@ from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
+```
+## OUTPUT:
+![Screenshot (11)](https://user-images.githubusercontent.com/113699377/190868267-315176bb-763d-46b7-808b-6cb1d3c4e097.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/113699377/190868281-cdb7d420-4d6a-4511-b38a-30cb2b027bf0.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/113699377/190868329-a82a22f5-304f-4ef0-9d7f-deb2ff283ff7.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/113699377/190868390-9f0904a8-792f-4605-a41a-5f70434d3726.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/113699377/190868428-ec697685-ce41-43dc-86b0-693d6e8b8e21.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/113699377/190868454-d5e8ba89-62d7-49a9-9e00-67890302112a.png)
 
-##OUTPUT:
-/ Show the result/
 
-##RESULT
-/Type your result here/
+## RESULT
+Thus the above program for standardizing the given data was implemented successfully
