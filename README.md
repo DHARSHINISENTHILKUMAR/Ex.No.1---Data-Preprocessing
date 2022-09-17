@@ -67,6 +67,7 @@ print(df1)
 ![Screenshot (12)](https://user-images.githubusercontent.com/113699377/190868281-cdb7d420-4d6a-4511-b38a-30cb2b027bf0.png)
 ## Normalized data:
 ![Screenshot (13)](https://user-images.githubusercontent.com/113699377/190868329-a82a22f5-304f-4ef0-9d7f-deb2ff283ff7.png)
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/113699377/190868390-9f0904a8-792f-4605-a41a-5f70434d3726.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/113699377/190868428-ec697685-ce41-43dc-86b0-693d6e8b8e21.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/113699377/190868454-d5e8ba89-62d7-49a9-9e00-67890302112a.png)
